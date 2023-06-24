@@ -8,3 +8,10 @@ Our implementation for the paper "Using Reinforcement Learning to Conceal Honeyp
 | Nguyễn Hùng Thịnh    | 20521963 |
 | Lê Trọng Nhân        | 20521695 |
 | Phan Võ Thiên Trường | 20522091 |
+
+1. Botnet: folder "bonet"
+2. Bot master: folder "Duong_IDPS"
+3. To start Honeypot use command
+```console
+foo@linux:~$ ./start.sh
+```
