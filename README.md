@@ -9,12 +9,14 @@ Our implementation for the paper "Using Reinforcement Learning to Conceal Honeyp
 | Lê Trọng Nhân        | 20521695 |
 | Phan Võ Thiên Trường | 20522091 |
 
-1.To start Honeypot use command
+1. To start Honeypot use command
 ```console
 ./start.sh
 ```
+
 2. To start bot master and control botnet use command
 ```console
 python3 Duong_IDPS/botnet.py
 ```
+
 3. Botnet: folder "bonet"
